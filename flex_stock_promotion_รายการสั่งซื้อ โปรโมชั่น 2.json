@@ -1,0 +1,634 @@
+{
+  "line": {
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+      "type": "bubble",
+      "hero": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เติม Stock ราคาพิเศษ",
+            "color": "#ffffff",
+            "size": "18px",
+            "weight": "bold",
+            "offsetTop": "20px",
+            "offsetBottom": "15px",
+            "offsetStart": "12px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.discordapp.com/attachments/1130113229700477089/1153808019709239477/Frame_1000004853_5.png",
+                "position": "absolute"
+              },
+              {
+                "type": "text",
+                "text": "13 / 15",
+                "color": "#ffffff",
+                "weight": "bold",
+                "align": "center",
+                "size": "24px"
+              }
+            ],
+            "width": "94px",
+            "height": "55px",
+            "alignItems": "center",
+            "justifyContent": "center",
+            "borderColor": "#ffffff",
+            "cornerRadius": "12px",
+            "offsetTop": "2.5px",
+            "offsetEnd": "12px"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "270deg",
+          "startColor": "#EE7623",
+          "endColor": "#FF8A00"
+        },
+        "height": "60px"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "รายการ",
+                "align": "start",
+                "color": "#A8AAAE",
+                "size": "12px",
+                "weight": "bold",
+                "offsetStart": "12px"
+              },
+              {
+                "type": "text",
+                "text": "จำนวนซื้อ",
+                "align": "end",
+                "color": "#A8AAAE",
+                "size": "12px",
+                "weight": "bold",
+                "offsetEnd": "12px"
+              }
+            ],
+            "justifyContent": "space-between",
+            "offsetBottom": "10px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [],
+            "height": "1.5px",
+            "backgroundColor": "#F3F3F5",
+            "paddingAll": "0px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "1. ไม้ฝา_SCG 15x300 เทาแพลตินัม คูลพลัส",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#373737"
+                  }
+                ],
+                "width": "240px",
+                "height": "18px",
+                "offsetStart": "12px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "50",
+                    "size": "16px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ],
+                "width": "21px",
+                "height": "24px",
+                "offsetEnd": "12px"
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "space-between",
+            "height": "40px",
+            "offsetTop": "0px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "2. ไม้ฝา_SCG 15x300 มะค่าประกาย คูลพลัสดับเบ..",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#373737"
+                  }
+                ],
+                "width": "240px",
+                "height": "18px",
+                "offsetStart": "12px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "40",
+                    "size": "16px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ],
+                "width": "21px",
+                "height": "24px",
+                "offsetEnd": "12px"
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "space-between",
+            "height": "40px",
+            "offsetTop": "0px",
+            "backgroundColor": "#F2F2F2"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "3. ไม้ฝา_SCG 15x300 มะค่าประกาย คูลพลัสดับเบ..",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#373737"
+                  }
+                ],
+                "width": "240px",
+                "height": "18px",
+                "offsetStart": "12px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "10",
+                    "size": "16px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ],
+                "width": "21px",
+                "height": "24px",
+                "offsetEnd": "12px"
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "space-between",
+            "height": "40px",
+            "offsetTop": "0px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "4. ไม้ฝา_SCG 15x300 สักทองประกายเงา ",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#FF3333"
+                  }
+                ],
+                "width": "240px",
+                "height": "18px",
+                "offsetStart": "12px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "0",
+                    "size": "16px",
+                    "color": "#FF3333",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ],
+                "width": "21px",
+                "height": "24px",
+                "offsetEnd": "12px"
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "space-between",
+            "height": "40px",
+            "offsetTop": "0px",
+            "backgroundColor": "#F2F2F2"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "5. ไม้ฝา_SCG 15x300 เทาแพลตินัม ",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#373737"
+                  }
+                ],
+                "width": "240px",
+                "height": "18px",
+                "offsetStart": "12px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "30",
+                    "size": "16px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ],
+                "width": "21px",
+                "height": "24px",
+                "offsetEnd": "12px"
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "space-between",
+            "height": "40px",
+            "offsetTop": "0px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "6. ไม้ฝา_SCG 15x300 ไนท์เกรย์ คูลพลัส",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#373737"
+                  }
+                ],
+                "width": "240px",
+                "height": "18px",
+                "offsetStart": "12px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "20",
+                    "size": "16px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ],
+                "width": "21px",
+                "height": "24px",
+                "offsetEnd": "12px"
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "space-between",
+            "height": "40px",
+            "offsetTop": "0px",
+            "backgroundColor": "#F2F2F2"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "7. ไม้ฝา_SCG 15x300 เทาแพลตินัม ",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#373737"
+                  }
+                ],
+                "width": "240px",
+                "height": "18px",
+                "offsetStart": "12px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "15",
+                    "size": "16px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ],
+                "width": "21px",
+                "height": "24px",
+                "offsetEnd": "12px"
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "space-between",
+            "height": "40px",
+            "offsetTop": "0px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "8. ไม้ฝา_SCG 15x300 ประดู่แดง คูลพลัส",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#FF3333"
+                  }
+                ],
+                "width": "240px",
+                "height": "18px",
+                "offsetStart": "12px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "0",
+                    "size": "16px",
+                    "color": "#FF3333",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ],
+                "width": "21px",
+                "height": "24px",
+                "offsetEnd": "12px"
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "space-between",
+            "height": "40px",
+            "offsetTop": "0px",
+            "backgroundColor": "#F2F2F2"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "9. ไม้ฝา_SCG 15x300 สักทองประกายเงา",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#FF3333"
+                  }
+                ],
+                "width": "240px",
+                "height": "18px",
+                "offsetStart": "12px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "0",
+                    "size": "16px",
+                    "color": "#FF3333",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ],
+                "width": "21px",
+                "height": "24px",
+                "offsetEnd": "12px"
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "space-between",
+            "height": "40px",
+            "offsetTop": "0px"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "10. ไม้ฝา_SCG 15x300 เทาแพลตินัม ",
+                    "size": "12px",
+                    "weight": "bold",
+                    "color": "#373737"
+                  }
+                ],
+                "width": "240px",
+                "height": "18px",
+                "offsetStart": "12px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "10",
+                    "size": "16px",
+                    "color": "#A8AAAE",
+                    "weight": "bold",
+                    "align": "end"
+                  }
+                ],
+                "width": "21px",
+                "height": "24px",
+                "offsetEnd": "12px"
+              }
+            ],
+            "alignItems": "center",
+            "justifyContent": "space-between",
+            "height": "40px",
+            "offsetTop": "0px",
+            "backgroundColor": "#F2F2F2"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สั่งสินค้า",
+                  "uri": "http://linecorp.com/"
+                },
+                "style": "primary",
+                "offsetStart": "15px",
+                "color": "#979797"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [],
+                "width": "45px"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "ดูรายละเอียด",
+                  "uri": "http://linecorp.com/"
+                },
+                "style": "primary",
+                "offsetEnd": "15px",
+                "color": "#EE7623"
+              }
+            ],
+            "paddingTop": "11px",
+            "justifyContent": "space-between"
+          }
+        ],
+        "paddingStart": "0px",
+        "paddingEnd": "0px"
+      },
+      "footer": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ข้อมูล :",
+                "size": "12px",
+                "color": "#000000",
+                "weight": "bold"
+              }
+            ],
+            "width": "40px",
+            "offsetStart": "-8px",
+            "height": "20px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "15 กันยายน 66",
+                "size": "12px",
+                "color": "#676767"
+              }
+            ],
+            "offsetStart": "-5px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "BOT",
+                "size": "8px",
+                "color": "#417BD9",
+                "align": "end",
+                "offsetEnd": "20px",
+                "gravity": "center",
+                "offsetTop": "2px"
+              }
+            ],
+            "alignItems": "flex-end"
+          },
+          {
+            "type": "image",
+            "position": "absolute",
+            "url": "https://media.discordapp.net/attachments/1130113229700477089/1151957941864374363/Layer_1-3_2_.png",
+            "size": "24px",
+            "offsetTop": "6px",
+            "offsetStart": "228px"
+          }
+        ],
+        "offsetStart": "15px",
+        "offsetEnd": "15px"
+      }
+    }
+  }
+}
